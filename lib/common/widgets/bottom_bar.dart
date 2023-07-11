@@ -14,7 +14,7 @@ class BottomBar extends StatefulWidget {
 
 class _BottomBarState extends State<BottomBar> {
   int _page = 0;
-  double bottomBarWidth = 42;
+  double bottomBarWidth = 40;
   double bottomBarBorderWidth = 5;
 
   List<Widget> pages = [
